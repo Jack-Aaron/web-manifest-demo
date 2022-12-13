@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "glob": "^7.1.4",
     "heroku": "^7.42.1",
     "mongoose": "^5.5.8"
